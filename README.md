@@ -61,4 +61,8 @@ appropriate handling of client disconnection.
 
 lightweight and simple to test with multiple terminals on a single machine.
 
+## OUTPUT ##
+
+<img width="1344" height="390" alt="Image" src="https://github.com/user-attachments/assets/48abafd0-1af2-4e7f-b51d-c181be91c5a7" />
+
 
