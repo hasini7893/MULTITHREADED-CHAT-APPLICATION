@@ -65,4 +65,6 @@ lightweight and simple to test with multiple terminals on a single machine.
 
 <img width="1344" height="390" alt="Image" src="https://github.com/user-attachments/assets/48abafd0-1af2-4e7f-b51d-c181be91c5a7" />
 
+<img width="1339" height="346" alt="Image" src="https://github.com/user-attachments/assets/ca08ce13-21a0-450e-9cf0-0506f9f54a80" />
+
 
